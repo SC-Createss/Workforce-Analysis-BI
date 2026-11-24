@@ -15,7 +15,11 @@ An interactive Microsoft Power BI dashboard built for HR teams, people analysts,
 - [Data Quality Notes & Future Enhancements](#data-quality-notes--future-enhancements)
 - [Contributing & License](#contributing--license)
 
+<<<<<<< HEAD
 ---
+=======
+![workforce Analysis Dashboard](WORKFORCE_ANALYSIS_DASHBOARD.png)
+>>>>>>> 0a9f99fdc47172fccdd12ba2140c934fa4039f0e
 
 ## Visuals & Demo
 
