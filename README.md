@@ -8,7 +8,7 @@ The dashboard provides a detailed overview of employee information, including em
 
 ## Dashboard Preview
 
-![Office Analysis Dashboard](dashboard/DASHBOARD_IMAGE.png)
+![workforce Analysis Dashboard](WORKFORCE_ANALYSIS_DASHBOARD.png)
 
 ## Key Features & Analysis
 
